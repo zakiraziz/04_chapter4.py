@@ -1,4 +1,4 @@
-safffriends = ["Apple", "Oringe", 5, 345,.06, False, "Aakash", "Rohan"]
+friends = ["Apple", "Oringe", 5, 345,.06, False, "Aakash", "Rohan"]
 print(friends)
 friends.append("Zakir")
 print(friends)
