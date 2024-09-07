@@ -1,18 +1,19 @@
 marks = []
 
-f1 = input("Enter marks here: ")
+f1 = int(input("Enter marks here: "))
 marks.append(f1)
-f2 = input("Enter marks here: ")
+f2 = int(input("Enter marks here: "))
 marks.append(f2)
-f3 = input("Enter marks here: ")
+f3 = int(input("Enter marks here: "))
 marks.append(f3)
-f4 = input("Enter marks here: ")
+f4 = int(input("Enter marks here: "))
 marks.append(f4)
-f5 = input("Enter marks here: ")
+f5 = int(input("Enter marks here: "))
 marks.append(f5)
-f6 = input("Enter marks here: ")
+f6 = int(input("Enter marks here: "))
 marks.append(f6)
 
 marks.sort()
 
 print(marks)
+ 
